@@ -30,7 +30,7 @@ ALLOWED_HOSTS = []
 EMAIL_USE_TLS = True
 EMAIL_HOST ='smtp.gmail.com'
 EMAIL_HOST_USER = 'ahredoan@gmail.com'
-EMAIL_HOST_PASSWORD = '018649755920980'
+EMAIL_HOST_PASSWORD = '**********'
 EMAIL_PORT = 587
 
 
